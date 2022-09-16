@@ -1,0 +1,5 @@
+Las Variables: Son como cajas que guardan algo que luego pueden ser utilizadas o modificadas.
+Los Strings: Son un tipo de caja que Almacenan cadena de caracteres como si fuera un cuaderno de notas.
+Funciones: Ejecuta un programa, una acción usando variables, las funciones estan contruida por argumentos que indica que acciones se van a realizar y de que tipo, y return devuelve o hace visble el resultado de esa accion almacenada en una variable.
+If: Es un tipo de condicionamiento que se difurca en desiciones, si cumple con ciertas condiciones se realiza una acción y si no cumple con esas condiciones se ejecuta otra acción.
+Los Valores booleanos: Son expresiones logicas que solo toman dos valores, verdadero o falso. 
