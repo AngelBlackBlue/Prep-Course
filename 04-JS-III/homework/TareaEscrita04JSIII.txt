@@ -1,0 +1,1 @@
+Arrays: Arrays son tablas que contiene infomación en cada una de su celdas, como si fuera una hoja de carpeta cada renglon es una posición o celda del array. El renglon 1 de la hoja seria la posicion 0 del array, para acceder al primer renglon se usa la posición 0.
