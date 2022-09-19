@@ -1,0 +1,4 @@
+For: Es un tipo de ciclo con un condicionamiento que se ejecuta cuando es verdadero. Para que el For funcione tiene que tener una variable inicio que puede ser i=0, mietras el condicionamiento sea verdadedro por ejemplo i<10 va a ejecutar su contenido, pero antes el ciclo For va a incrementar el valor de inicio por ejemplo en una unidad i=i+1, ahora el valor de i es i=1. Este ciclo se va a seguir ejecucando mientras i < 10.
+&& es un operador logico de tipo Y, que evalua dos condiciones como por ejemplo 1===1 && 1 < 10, si las dos condiciones se cumple la condicion es verdadera. 
+|| es un operador logico de tipo O, que evalua dos condiciones como por ejemplo 1===1 || 20 < 10, si una de las condiciones es verdadera la condición es verdadera.
+! es un operador logico de tipo NEGACIÓN, que se usa para negar una condición como por ejemplo 1!==1, como esta condicones es verdadera su negación da como resultado falso.
