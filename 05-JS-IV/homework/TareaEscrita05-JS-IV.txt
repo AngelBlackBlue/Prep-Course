@@ -1,0 +1,17 @@
+Objetos: Los objetos contiene información sobre algo o alguien por ejemplo Nombre, Apellido, Edad, Fecha de Nacimiento, etc. 
+
+Propiedades: Un objeto estan compuestos por propiedad/es y argumento/s, por ejemplo una propiedad seria Apellido  y su argumento seria Suarez. 
+
+Metodos: Los metodos son funciones establecidas dentro de un objeto, que se ejecutan cuando hacemos una llamada a la acción de esa función, para su ejecución se escribe el nombre del objeto seguida de un punto con el nombre de la función como por ejemplo objeto.funcion()
+
+Bucle 'for...in': Es un tipo de for diseñado para ejecutar de forma más comoda un bucle dentro de los objetos. La forma que tiene este bucle es 'For let i in usuario', en donde usuario representa el objeto a recorrer e i la variable que va a recorrer el ciclo desde cero hasta la ultima posicion de objeto llamado usuario.
+
+Notación de Punto Vs Notación de corchete: La notación de punto 'objeto.propiedad' y la notación 'objeto['propiedad'], son anotaciones que sirven oara acceder a los valores, asignar valores o eliminar propiedades.
+acceder  ===> objeto.propiedad;       
+asignar ===> objeto.propiedad = true;
+eliminar ===> delete objeto.propiedad;
+
+acceder  ===> objeto['propiedad'];     
+asignar ===> objeto['propiedad'] = true;
+eliminar ===> delete objeto['propiedad'];
+
