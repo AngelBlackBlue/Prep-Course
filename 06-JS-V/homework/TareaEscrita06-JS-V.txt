@@ -1,3 +1,3 @@
 * `prototype`: Los objetos tiene funciones propias que pueden ser invocadas llamadas prototipos que son propiedades internas del objento.
 
-* _Constructors_ (de Clases): Un contructor de clases es una función que sirve como plantilla para insertar argumentos distintos con tienen la misma propiedad, usando keyworks.  
+* _Constructors_ (de Clases): Un constructor de clases es una función que sirve como plantilla para insertar argumentos distintos que comparten la misma propiedad, usando keyworks.  
